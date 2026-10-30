@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Verma Estates house mark</title>
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="#1e1e1e"/>
+  <path d="M13 29 32 13l19 16" fill="none" stroke="#f35525" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <path d="M19 28v21h26V28M27 49V36h10v13" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path d="M24 32h2m12 0h2" stroke="#f35525" stroke-linecap="round" stroke-width="3"/>
+</svg>
